@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a9w3qqjl9hbv5xar?svg=true)](https://ci.appveyor.com/project/polivovn/pat1-0)
