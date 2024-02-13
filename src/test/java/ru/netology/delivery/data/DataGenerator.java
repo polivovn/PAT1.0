@@ -54,13 +54,16 @@ public class DataGenerator {
             this.name = name;
             this.phone = phone;
         }
+
         public String getCity() {
             return city;
         }
-        public String getName(){
+
+        public String getName() {
             return name;
         }
-        public String getPhone(){
+
+        public String getPhone() {
             return phone;
         }
     }
